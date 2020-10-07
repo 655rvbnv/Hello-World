@@ -1,3 +1,8 @@
 import random
 
-print(random.randrange(#range of numbers))
+print(random.randrange(#range of numbers in string format)
+
+
+Import math
+
+print(arcos(#type number in string format))
